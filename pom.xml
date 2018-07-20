@@ -21,6 +21,7 @@
   <distributionManagement>
   <repository>
     <id>SSDevopsRelease</id>
+    <name>SSDevopsRelease</name>
     <url>http://54.172.244.241:8081/nexus-latest/content/repositories/SSDevopsRelease</url>
   </repository>
 </distributionManagement>
