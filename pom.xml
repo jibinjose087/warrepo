@@ -22,7 +22,7 @@
   <repository>
     <id>SSDevopsRelease</id>
     <name>SSDevopsRelease</name>
-    <url>http://54.172.244.241:8081/nexus-latest/content/repositories/SSDevopsRelease</url>
+    <url>http://54.237.224.23:8082/nexus-latest/content/repositories/SSDevopsRelease</url>
   </repository>
 </distributionManagement>
 </project>
