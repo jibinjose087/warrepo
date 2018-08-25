@@ -7,6 +7,12 @@
   <version>1.0-SNAPSHOT_${v}</version>
   <name>CounterWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <dependency>
+    <groupId>remo.in</groupId>
+    <artifactId>CounterWebApp</artifactId>
+    <version>CounterWebApp_${v}</version>
+    <type>war</type>
+</dependency>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
