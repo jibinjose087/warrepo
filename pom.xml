@@ -10,7 +10,7 @@
   <dependency>
     <groupId>remo.in</groupId>
     <artifactId>CounterWebApp</artifactId>
-    <version>CounterWebApp_${v}</version>
+    <version>1.0-CounterWebApp_${v}</version>
     <type>war</type>
 </dependency>
   <dependencies>
