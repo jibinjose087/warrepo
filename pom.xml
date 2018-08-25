@@ -18,16 +18,4 @@
   <build>
     <finalName>CounterWebApp</finalName>
   </build>
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>elk-stack.example.com-releases</name>
-        <url>http://18.188.254.237:8081/artifactory/SDPDevops-Release</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>elk-stack.example.com-snapshots</name>
-        <url>http://18.188.254.237:8081/artifactory/SDPDevops-Release</url>
-    </snapshotRepository>
-</distributionManagement>
 </project>
