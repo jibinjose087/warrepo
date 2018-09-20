@@ -13,5 +13,6 @@ artifacts:
   files:
     - target/CounterWebApp.war
     - appspec.yml
+    - scripts/*
   name: TMAN_CounterWebApp
   discard-paths: yes
