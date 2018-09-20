@@ -4,7 +4,7 @@
   <groupId>remo.in</groupId>
   <artifactId>CounterWebApp</artifactId>
   <packaging>war</packaging>
-  <version>APP_${v}</version>
+  <version>APP</version>
   <name>CounterWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
