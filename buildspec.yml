@@ -1,4 +1,4 @@
-version: 0.1
+version: 0.2
 
 phases:
   build:
@@ -12,3 +12,5 @@ phases:
 artifacts:
   files:
     - target/CounterWebApp.war
+    - TMAN_CounterWebApp_$(date +%Y-%m-%d).war
+  discard-paths: yes
