@@ -12,5 +12,5 @@ phases:
 artifacts:
   files:
     - target/CounterWebApp.war
-  name: TMAN_CounterWebApp.war
+  name: TMAN_CounterWebApp
   discard-paths: yes
