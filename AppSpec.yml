@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /TMAN_CounterWebApp.zip
-    destination: /var/www/html/
+    destination: /opt/tomcat/webapps
 hooks:
   BeforeInstall:
     - location: scripts/shutdown.sh
