@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-          <finalName>CounterWebApp</finalName>
+	  <finalName>CounterWebApp-${v}</finalName>
           <plugins>
 <plugin>
   <groupId>com.google.cloud.tools</groupId>
